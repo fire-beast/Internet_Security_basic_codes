@@ -6,7 +6,6 @@ int main()
     cout<<"Enter 2 numbers:"<<endl;
     cin>>b;
     cin>>c;
-int d;
     while(b!=0){
     int rem=b%c;
     int q=b/c;
